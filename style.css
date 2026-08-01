@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedStart Academy</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>🩺 MedStart Academy</h1>
+<p>Learn Medicine from the Ground Up</p>
+</header>
+
+<nav>
+<button>Home</button>
+<button>Courses</button>
+<button>Anatomy</button>
+<button>Cardiology</button>
+<button>Emergency Medicine</button>
+<button>Pharmacology</button>
+</nav>
+
+<main>
+
+<section class="welcome">
+<h2>Welcome, Future Healthcare Professional!</h2>
+<p>
+Your journey into emergency medicine, surgery, and cardiology starts here.
+</p>
+</section>
+
+
+<section class="dashboard">
+
+<div class="card">
+<h3>📚 Current Course</h3>
+<p>Month 1: Medical Terminology</p>
+<div class="progress">
+<div class="bar"></div>
+</div>
+<p>Progress: 25%</p>
+</div>
+
+
+<div class="card">
+<h3>❤️ Cardiology</h3>
+<p>Learn the heart, blood flow, ECG basics, and cardiovascular science.</p>
+<button>Start Learning</button>
+</div>
+
+
+<div class="card">
+<h3>🚑 Emergency Medicine</h3>
+<p>Study patient assessment, trauma, and emergency care concepts.</p>
+<button>Explore</button>
+</div>
+
+
+<div class="card">
+<h3>🏆 Achievements</h3>
+<p>Level: 1</p>
+<p>XP: 0</p>
+<p>Badge: Medical Student in Training</p>
+</div>
+
+</section>
+
+
+<section class="lesson">
+<h2>Today's Lesson</h2>
+
+<h3>Anatomical Position</h3>
+
+<p>
+The anatomical position is the standard reference position used by healthcare
+professionals. A person stands upright, facing forward, with arms at their
+sides and palms facing forward.
+</p>
+
+<button>Complete Lesson +50 XP</button>
+
+</section>
+
+</main>
+
+
+<footer>
+<p>MedStart Academy © 2026</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
